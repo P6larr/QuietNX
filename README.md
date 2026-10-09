@@ -7,7 +7,7 @@ The goal of QuietNX is to create a lightweight and customizable operating system
 
 QuietNX is being developed with the vision of building a system that gives users greater control over their environment, from its underlying components to the tools they use every day.
 
-<div align="center"> 
+
 <img src="https://github.com/P6larr/QuietNX/blob/main/Assets/QuietNX%20logo.png" alt="QuietNX Logo" width="180">
 
 ## Goals
