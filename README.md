@@ -8,7 +8,6 @@ The goal of QuietNX is to create a lightweight and customizable operating system
 QuietNX is being developed with the vision of building a system that gives users greater control over their environment, from its underlying components to the tools they use every day.
 
 
---
 
 ## Goals
 - 🐧 Independent identity — Develop a Linux operating system with its own branding and vision.
