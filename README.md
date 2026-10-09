@@ -11,17 +11,17 @@ QuietNX is being developed with the vision of building a system that gives users
 <img src="https://github.com/P6larr/QuietNX/blob/main/Assets/QuietNX%20logo.png" alt="QuietNX Logo" width="180">
 
 ## Goals
-- 🐧 Independent identity — Develop a Linux operating system with its own branding and vision.
+-  Independent identity — Develop a Linux operating system with its own branding and vision.
 
-- ⚡ Lightweight design — Keep the system minimal and avoid unnecessary overhead.
+-  Lightweight design — Keep the system minimal and avoid unnecessary overhead.
 
-- 🛠️ Customization — Choose and configure system components to fit the project's goals.
+-  Customization — Choose and configure system components to fit the project's goals.
 
-- 📦 Custom package management — Develop a package management solution designed around QuietNX.
+-  Custom package management — Develop a package management solution designed around QuietNX.
 
-- 🖥️ Desktop flexibility — Support customizable desktop environments and window managers.
+-  Desktop flexibility — Support customizable desktop environments and window managers.
 
-- 🔧 System control — Prioritize transparency, flexibility, and control over the operating system.
+-  System control — Prioritize transparency, flexibility, and control over the operating system.
 
 
 ## Current Status
