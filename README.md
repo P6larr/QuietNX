@@ -1,6 +1,6 @@
 # QuietNX
 
-QuietNX is a custom Linux operating system I'm building from the ground up. The goal is to create something lightweight, customizable, and truly my own.
+QuietNX is a custom Linux distribution I'm building on top of Arch Linux. The goal is to create something lightweight, customizable, and with its own identity.
 
 I want to keep things simple, avoid unnecessary bloat, and gradually add my own tools and features as the project develops.
 
@@ -8,15 +8,24 @@ I want to keep things simple, avoid unnecessary bloat, and gradually add my own 
 
 ## Goals
 
-* **Make it my own** — Give QuietNX its own identity instead of relying on an existing distribution
-* **Keep it lightweight** — Avoid unnecessary software and overhead
+* **Make it my own** — Give QuietNX its own identity, configuration, and user experience
+* **Keep it lightweight** — Include only what makes sense for the system
 * **Customization** — Configure the system to fit the vision for QuietNX
-* **Custom package manager** — Develop my own package management solution in the future
-* **Desktop flexibility** — Allow room for different desktop environments and window managers
-* **Learn by building** — Understand how Linux works by building and customizing the system myself
+* **Custom package manager** — Experiment with my own package management solution in the future
+* **Desktop flexibility** — Leave room for different desktop environments and window managers
+* **Learn by building** — Understand how Linux works by developing and customizing my own distribution
+
+## Planned Features
+
+* Arch Linux base with systemd
+* Custom ISO built with Archiso
+* Customized desktop experience
+* Graphical installer using Calamares
+* Support for additional desktop environments and window managers
+* Potential custom package management tools in the future
 
 ## Current Status
 
-QuietNX is still under development. I'm currently working on the core system, with more customizations and features planned for the future.
+QuietNX is in early development. I'm moving toward an Arch-based system and working toward a bootable ISO. The installer, desktop customization, and other planned features still need to be implemented.
 
 Things may change as development continues.
